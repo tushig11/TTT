@@ -1,2 +1,0 @@
-# TTT
-Created with CodeSandbox

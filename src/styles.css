@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+}
+
+.Square {
+  float: left;
+  height: 100px;
+  width: 100px;
+  font-size: 40px;
+  margin: 5px;
+}
+
+.row {
+  clear: both;
+}
+.active:hover {
+  background-color: lightblue;
+}
+
+.board {
+  float: left;
+}
+
+.info {
+  font-size: 40px;
+  clear: right;
+  overflow: auto;
+  padding-left: 30px;
+}
+
+.reset {
+  height: 50px;
+}
